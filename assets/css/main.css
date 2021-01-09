@@ -176,6 +176,7 @@ input, select, textarea {
 	}
 
 	p {
+		font-family: "Malgun Gothic";
 		text-align: justify;
 		margin: 0 0 2rem 0;
 	}
