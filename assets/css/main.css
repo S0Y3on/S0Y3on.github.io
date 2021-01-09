@@ -3837,7 +3837,7 @@ input, select, textarea {
 			-webkit-align-items: -webkit-stretch;
 			-ms-align-items: -ms-stretch;
 			align-items: stretch;
-			text-align: center;
+			/* text-align: center; */
 			width: 100%;
 			padding: 0;
 		}
